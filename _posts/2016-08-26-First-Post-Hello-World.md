@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello World  goes up."
+title: "Hello World goes up."
 date: 2016-08-26
 ---
 
