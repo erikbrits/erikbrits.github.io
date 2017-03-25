@@ -6,7 +6,9 @@ date: 2017-03-24
 
 Hello!
 
-Below are some of the more thought-provoking articles I've read in the last 6 months. Modern marketing is evolving at such a rapid pace that text books struggle to keep up. Once you’ve internalized the fundamental processes of a good marketer, your next growth phase comes from keeping an eye on the industry, and analysing what your competitors are doing. Remember to be politely critical: If they are doing it, try to understand why they thought it was a good idea… but always decide for yourself whether it is a good idea for your situation or not.
+I suppose by now you've seen the last slide in the deck, and I've mumbled some stuff about how marketing should be pervasive. Every action you take should identify with the identity of your brand, and create actionable links to your desired end-points. Such as, for example, giving you a link to a piece of text that you might eventually share with someone else, and which conveniently points to my website.
+
+The reason I sent you here: To give you some examples of the places in which I find new marketing ideas and knowledge. Below are some thought-provoking articles I've read in the last 6 months. Modern marketing is evolving at such a rapid pace that text books struggle to keep up. Once you’ve internalized the fundamental processes of a good marketer, your next growth phase comes from keeping an eye on the industry, and analysing what your competitors are doing. Remember to be politely critical: If they are doing it, try to understand why they thought it was a good idea… but always decide for yourself whether it is a good idea for your situation or not.
 
 
 
@@ -25,6 +27,14 @@ Below are some of the more thought-provoking articles I've read in the last 6 mo
 [Brandchat: Message your favourite brands through WeChat & more](http://ventureburn.com/2017/03/brandchat-message-brands/)
 
 [Why losing access to my money for a day deepened my trust in fintech](https://thenextweb.com/eu/2017/03/06/losing-access-money-day-deepened-trust-fintech/#.tnw_YMMUsB7P)
+
+[Content Marketing is Remarkably Similar to Writing Code](https://www.startups.co/articles/content-marketing-is-remarkably-similar-to-writing-code)
+
+[Facebook demographics analysis reveals several startling truths](https://thenextweb.com/facebook/2017/03/22/facebook-demographics-analysis-startling-truths/#.tnw_tiTqvrbq)
+
+[12 ways to grab millennials using gamification](https://thenextweb.com/business/2017/02/13/12-ways-to-grab-millennials-using-gamification/#.tnw_hApwcYfR)
+
+[How HotelTonight’s Logo Boosts Revenue By More Than 10% A Year](https://www.fastcodesign.com/3067932/how-hoteltonights-logo-boosted-revenue-by-more-than-10)
 
 The ideas you take away from this list should be your own. For example, here are 5 of mine, relevant to my situation.
 
