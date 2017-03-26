@@ -36,9 +36,9 @@ The reason I sent you here: To give you some examples of the places in which I f
 
 [How HotelTonight’s Logo Boosts Revenue By More Than 10% A Year](https://www.fastcodesign.com/3067932/how-hoteltonights-logo-boosted-revenue-by-more-than-10)
 
+[Advanced Branding](http://www.robynhobson.com/kapferers-brand-prism-brand-identity/)
+
 The ideas you take away from this list should be your own. For example, here are 5 of mine, relevant to my situation.
-
-
 
 Globalisation, connectivity and the future of branding: We are very close to the point where being the most conveniently available product or service will no longer matter, as consumers will be able to choose the service that “speaks to them” the best. Instead of simply selling better products and services, it will become unavoidably essential to understand who your customer is and to directly address their needs in a personal manner with your brand.
 
@@ -49,3 +49,9 @@ Personal branding vs. company branding: If you look closely enough at the detail
 How how how how how do emojis make people rich?! Yes this comment refers to the Kim Kardashian article. This one really made me think. The biggest takeaway for me personally was that you have to respect the fact that Kim Kardashian sees opportunity in people making fun of her. Rather than trying to maintain a perfect image, she’s said “ok well they want to make fun of me? I’ll *sell* them a sticker to do that with!” There a bit more to this piece though, relating back to the first article I highlighted about how personal and embedded our communications with brands are becoming, and how the lines are blurring between business and personal. It’s hard to predict the future, but if I had to start a business today, I would make the story very personal - make it real, make it human, make it important to someone.
 
 What could businesses learn from non-profit organisations?! Well now… imagine persuading someone to pay you for a product they need. Now, imagine persuading them to pay you for a product they don’t need or understand, and which you’re going to give to someone else anyway! Yeah, turns out there’s a lot to be learnt from how non-profits persuade people to get involved, how they make them care, and how they make them pay.
+
+One final footnote...
+
+There is no definite right and wrong way to do marketing. For example, here is another ["Introduction to Marketing" slideshow](https://www.slideshare.net/VerbalPlusVisual/final-digital-marketing-101-presentation), and I think it's quite good... and if you keep looking, you'll find hundreds of versions of "everything you need to know about marketing" that are *all different*. It really is up to you to identify what will speak to your customer, and to build a brand that embodies that, and a strategy that conveys that essence.
+
+Good luck, and remember to build something you're proud of so that you enjoy it!
